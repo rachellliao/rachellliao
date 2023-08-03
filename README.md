@@ -1,6 +1,6 @@
 # Welcome to Rachel's GitHub Profile 👋
 
-![Banner][(https://www.freepik.com/free-vector/abstract-background-with-modern-tech-low-poly-design_16079858.htm#page=6&query=data%20science%20banner&position=47&from_view=search&track=country_rows_v1)]
+https://www.freepik.com/free-vector/abstract-background-with-modern-tech-low-poly-design_16079858.htm#page=6&query=data%20science%20banner&position=47&from_view=search&track=country_rows_v1
 
 ## About Me 📝
 
