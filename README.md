@@ -18,13 +18,13 @@ I'm a skilled Accounting & Operations Professional with a passion for data scien
 ## Projects 🛠️
 
 ### Data Analyst | Predictive Analysis of West Nile Virus Spread
-_JUNE 2023, BRAINSTATION_
+_JUNE 2023_
 - Analyzed West Nile Virus spread
 - Extensive exploratory data analysis
 - Regression predictive modeling
 
 ### Data Scientist | Sentiment Analysis on Hotel Reviews
-_JULY 2023, BRAINSTATION_
+_JULY 2023_
 - Implemented topic modeling
 - Sentiment analysis of user reviews
 - Gained insights into user behavior
