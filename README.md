@@ -17,21 +17,30 @@ I'm a skilled Accounting & Operations Professional with a passion for data scien
 
 ## Projects 🛠️
 
-### Data Analyst | Predictive Analysis of West Nile Virus Spread
-_JUNE 2023_
-- Analyzed West Nile Virus spread
-- Extensive exploratory data analysis
-- Regression predictive modeling
+### Data Scientist | [Predicting Loan Default with A Machine Learning Approach](https://github.com/rachellliao/loan-payment-status-prediction)
+
+_JULY 2023_
+- Implemented data cleaning and preprocessing on extensive dataset
+- Explored relationships and insights using Exploratory Data Analysis
+- Trained and evaluated models, including Random Forest, for accurate loan default prediction
+- Gained valuable insights into risk management, lending behaviors, and financial decision-making
 
 ### Data Scientist | Sentiment Analysis on Hotel Reviews
 _JULY 2023_
-- Implemented topic modeling
-- Sentiment analysis of user reviews
-- Gained insights into user behavior
+- Implemented topic modeling and sentiment analysis for user reviews
+- Focused on feature engineering and natural language processing techniques
+- Employed classification models to gain insights into user behavior
+- Improved conversion rate by understanding customer sentiments
+
+### Data Analyst | Predictive Analysis of West Nile Virus Spread
+_JUNE 2023_
+- Analyzed West Nile Virus spread through extensive exploratory data analysis
+- Utilized visualizations in Python and conducted hypothesis and correlation testing (t-test, Chi-square test)
+- Implemented regression predictive modeling to understand mosquito tracking data
 
 ## Connect with Me 🤝
 
-Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/rachellliao/]).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rachellliao/).
 
 ---
 
