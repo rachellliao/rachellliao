@@ -1,7 +1,6 @@
 # Welcome to Rachel's Fun World 👋
 
-![Banner Image](https://www.freepik.com/free-vector/abstract-background-with-modern-tech-low-poly-design_16079858.htm#page=6&query=data%20science%20banner&position=47&from_view=search&track=country_rows_v1](https://img.freepik.com/free-vector/green-technology-background-creative-lighting-template-background-vector-illustration_1142-11469.jpg?w=900&t=st=1691038861~exp=1691039461~hmac=0977c19a61999c3cdeb2007a32ae3749e96e5d33c7a3fe562f49dee8d7b9d821)
-
+![Banner Image](https://img.freepik.com/free-vector/green-technology-background-creative-lighting-template-background-vector-illustration_1142-11469.jpg?w=900&t=st=1691038861~exp=1691039461~hmac=0977c19a61999c3cdeb2007a32ae3749e96e5d33c7a3fe562f49dee8d7b9d821)
 
 ## About Me 📝
 
