@@ -49,7 +49,7 @@ _AUG 2023_
 _JULY 2023_
 - Collaborated in a diverse team during a 24-hour Hackathon sponsored by BrainStation and Google. Leveraged cross-functional teamwork, combining expertise in data science, UX/UI, and software engineering.
 - Conducted comprehensive market research to understand the current gaps and needs related to AI education and used the insights from the research as a foundation to build the user-centric solution.
-- Implemented data analysis and exploratory data analysis (EDA) to refine the approach and validate the strategies.
+- Implemented data analysis to refine the approach and validate the strategies.
 - Developed an innovative solution to educate users about new AI-related product features by prioritizing user control and empowerment as part of the educational experience.
 
 ### Data Scientist | Sentiment Analysis on Hotel Reviews
