@@ -7,7 +7,7 @@
 
 I'm a skilled Accounting & Operations Professional with a passion for data science. With a proven track record as a founding employee in two successful startup operations, I've fostered collaboration among global teams, resulting in increased productivity and positive business outcomes. Now, I'm leveraging my transferable skills and knowledge to transition into data science, focusing on machine learning and predictive analytics.
 
-## 🚀 Skills
+## 👩‍💻 Skills
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -38,7 +38,7 @@ I'm a skilled Accounting & Operations Professional with a passion for data scien
 
 ![Image2](https://user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif)
 
-## 🛠️ Projects
+## 🔮 Projects
 
 ### Data Scientist | [Predicting Loan Default with A Machine Learning Approach](https://github.com/rachellliao/loan-payment-status-prediction)
 _AUG 2023_
