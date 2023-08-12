@@ -1,7 +1,7 @@
-# Welcome to Rachel's Fun World 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-![Profile views](https://komarev.com/ghpvc/?username=rachellliao&style=flat-square&color=blue)
+![Image1](https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif)
 
-![Banner Image](https://img.freepik.com/free-vector/green-technology-background-creative-lighting-template-background-vector-illustration_1142-11469.jpg?w=900&t=st=1691038861~exp=1691039461~hmac=0977c19a61999c3cdeb2007a32ae3749e96e5d33c7a3fe562f49dee8d7b9d821)
+# Welcome to Rachel's Fun World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+![Profile views](https://komarev.com/ghpvc/?username=rachellliao&style=flat-square&color=blue)
 
 ## 📝 About Me
 
@@ -36,6 +36,8 @@ I'm a skilled Accounting & Operations Professional with a passion for data scien
 - **Machine Learning Frameworks:** `TensorFlow`, `Scikit-learn`, `XGBoost`, `PyTorch`
 - **Big Data Technologies:** `AWS`, `Hadoop`, `Spark`, `Hive`, `Docker`
 
+![Image2](https://user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif)
+
 ## 🛠️ Projects
 
 ### Data Scientist | [Predicting Loan Default with A Machine Learning Approach](https://github.com/rachellliao/loan-payment-status-prediction)
@@ -68,6 +70,8 @@ _JUNE 2023_
 ## 🤝 Connect with Me
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rachellliao/).
+
+![Image3](https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif)
 
 ---
 
