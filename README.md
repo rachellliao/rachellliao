@@ -1,4 +1,4 @@
-# Welcome to Rachel's Fun World 👋
+# Welcome to Rachel's Fun World 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ![Profile views](https://komarev.com/ghpvc/?username=rachellliao&style=flat-square&color=blue)
 
 ![Banner Image](https://img.freepik.com/free-vector/green-technology-background-creative-lighting-template-background-vector-illustration_1142-11469.jpg?w=900&t=st=1691038861~exp=1691039461~hmac=0977c19a61999c3cdeb2007a32ae3749e96e5d33c7a3fe562f49dee8d7b9d821)
