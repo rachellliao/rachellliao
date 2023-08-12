@@ -62,10 +62,16 @@ _JULY 2023_
 - Improved conversion rate by understanding customer sentiments
 
 ### Data Analyst | Predictive Analysis of West Nile Virus Spread
-_JUNE 2023_
+_JULY 2023_
 - Analyzed West Nile Virus spread through extensive exploratory data analysis
 - Utilized visualizations in Python and conducted hypothesis and correlation testing (t-test, Chi-square test)
 - Implemented regression predictive modeling to understand mosquito tracking data
+
+### Data Analyst | Trend Analysis and Visualization of Bixi Bike Usage
+_JUNE 2023_
+- Integrated in-depth data analysis, interactive Tableau visualizations, and proficient SQL querying for exploratory analysis to reveal trends and behaviours in Bixi bike usage.
+- Crafted an insightful visualization dashboard with drill-down capabilities to accommodate data inquiries.
+- Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
 
 ## 🤝 Connect with Me
 
