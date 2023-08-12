@@ -1,7 +1,7 @@
-![Image1](https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif)
-
 # Welcome to Rachel's Fun World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ![Profile views](https://komarev.com/ghpvc/?username=rachellliao&style=flat-square&color=blue)
+
+![Image1](https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif)
 
 ## 📝 About Me
 
