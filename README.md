@@ -40,7 +40,7 @@ I'm a skilled Accounting & Operations Professional with a passion for data scien
 
 ## 🔮 Projects
 
-### Data Scientist | [Predicting Loan Default with A Machine Learning Approach](https://github.com/rachellliao/loan-payment-status-prediction)
+### Data Scientist | [Predicting Loan Default with A Machine Learning Approach: Paycast](https://github.com/rachellliao/loan-payment-status-prediction)
 _AUG 2023_
 - Implemented data cleaning and preprocessing on extensive dataset
 - Explored relationships and insights using Exploratory Data Analysis
