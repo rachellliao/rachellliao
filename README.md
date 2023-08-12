@@ -3,7 +3,7 @@
 
 ![Image1](https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif)
 
-## 📝 About Me
+## 😊 About Me
 
 I'm a skilled Accounting & Operations Professional with a passion for data science. With a proven track record as a founding employee in two successful startup operations, I've fostered collaboration among global teams, resulting in increased productivity and positive business outcomes. Now, I'm leveraging my transferable skills and knowledge to transition into data science, focusing on machine learning and predictive analytics.
 
