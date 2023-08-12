@@ -39,11 +39,19 @@ I'm a skilled Accounting & Operations Professional with a passion for data scien
 ## 🛠️ Projects
 
 ### Data Scientist | [Predicting Loan Default with A Machine Learning Approach](https://github.com/rachellliao/loan-payment-status-prediction)
-_JULY 2023_
+_AUG 2023_
 - Implemented data cleaning and preprocessing on extensive dataset
 - Explored relationships and insights using Exploratory Data Analysis
 - Trained and evaluated models, including Random Forest, for accurate loan default prediction
 - Gained valuable insights into risk management, lending behaviors, and financial decision-making
+
+### Data Scientist | [AI Education Interface: User-Centric Approach](https://github.com/rachellliao/google-24hr-hackathon)
+_JULY 2023_
+- Collaborated in a diverse team during a 24-hour Hackathon sponsored by BrainStation and Google.
+- Conducted comprehensive market research to understand the current gaps and needs related to AI education and used the insights from the research as a foundation to build the user-centric solution.
+- Implemented data analysis and exploratory data analysis (EDA) to refine the approach and validate the strategies.
+- Developed an innovative solution to educate users about new AI-related product features by prioritizing user control and empowerment as part of the educational experience.
+- Leveraged cross-functional teamwork, combining expertise in data science, UX/UI, and software engineering.
 
 ### Data Scientist | Sentiment Analysis on Hotel Reviews
 _JULY 2023_
