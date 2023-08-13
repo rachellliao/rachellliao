@@ -63,6 +63,7 @@ _JULY 2023_
 
 ### Data Analyst | Predictive Analysis of West Nile Virus Spread
 _JULY 2023_
+- Employed ETL processes to prepare mosquito tracking data for analysis.
 - Leveraged statistical knowledge to analyze West Nile Virus spread through extensive exploratory data analysis.
 - Utilized visualizations in Python and conducted hypothesis and correlation testing (t-test, Chi-square test).
 - Implemented regression predictive modeling to understand mosquito tracking data.
