@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 45px;">Welcome to Rachel's Fun World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1 style="font-size: 50px;">Welcome to Rachel's Fun World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <img src="https://komarev.com/ghpvc/?username=rachellliao&style=flat-square&color=blue" alt="Profile views">
   <p><img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Image1" width="500"></p>
 </div>
