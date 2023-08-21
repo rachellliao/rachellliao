@@ -47,7 +47,7 @@ _AUG 2023_
 - Explored relationships and insights using Exploratory Data Analysis.
 - Trained and evaluated models, including Random Forest, for accurate loan default prediction.
 - Gained valuable insights into risk management, lending behaviours, and financial decision-making.
-<img src="https://github.com/rachellliao/rachellliao/blob/340b4cbb4a288d611e1604c053801e60aa40dc08/image/5.%20Loan%20Default%20Prediction.png" alt="Project5" width="500" height="300">
+<img src="https://github.com/rachellliao/rachellliao/blob/340b4cbb4a288d611e1604c053801e60aa40dc08/image/5.%20Loan%20Default%20Prediction.png" alt="Project5" width="400" height="250">
 
 ### Data Scientist | [User-Centric AI Education: Google A.I.](https://github.com/rachellliao/google-24hr-hackathon)
 _JULY 2023_
@@ -55,7 +55,7 @@ _JULY 2023_
 - Conducted comprehensive market research to understand the current gaps and needs related to AI education and used the insights from the research as a foundation to build a user-centric solution.
 - Implemented data analysis to refine the approach and validate the strategies.
 - Developed an innovative solution to educate users about new AI-related product features by prioritizing user control and empowerment as part of the educational experience.
-<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/4.%20Google%20A.I..png" alt="Project4" width="500" height="300">
+<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/4.%20Google%20A.I..png" alt="Project4" width="400" height="250">
 
 ### Data Scientist | Sentiment Analysis on Hotel Reviews
 _JULY 2023_
@@ -63,7 +63,7 @@ _JULY 2023_
 - Focused on feature engineering and natural language processing techniques.
 - Employed classification models to gain insights into user behaviour.
 - Improved conversion rate by understanding customer sentiments.
-<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/3.%20Hotel%20Reviews.png" alt="Project3" width="500" height="300">
+<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/3.%20Hotel%20Reviews.png" alt="Project3" width="410" height="230">
 
 ### Data Analyst | Predictive Analysis of West Nile Virus Spread
 _JULY 2023_
@@ -71,7 +71,7 @@ _JULY 2023_
 - Leveraged statistical knowledge to analyze West Nile Virus spread through extensive exploratory data analysis.
 - Utilized visualizations in Python and conducted hypothesis and correlation testing (t-test, Chi-square test).
 - Implemented regression predictive modeling to understand mosquito tracking data.
-<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/2.%20Virus%20Spread.png" alt="Project2" width="500" height="300">
+<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/2.%20Virus%20Spread.png" alt="Project2" width="450" height="260">
 
 ### Data Analyst | Trend Analysis and Visualization of Bixi Bike Usage
 _JUNE 2023_
@@ -79,7 +79,7 @@ _JUNE 2023_
 - Crafted an insightful visualization dashboard with drill-down capabilities to accommodate data inquiries.
 - Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/1.%20Bike%20Usage.png" alt="Project1" width="400" height="300">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/1.%20Bike%20Usage.png" alt="Project1" width="380" height="260">
 
 ## 🤝 Connect with Me
 
