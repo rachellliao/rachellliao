@@ -45,7 +45,7 @@ I'm a skilled Accounting & Operations Professional with a passion for data scien
 _AUG 2023_
 - Implemented data cleaning and preprocessing on an extensive dataset.
 - Explored relationships and insights using Exploratory Data Analysis.
-- Trained and evaluated models, including Random Forest, for accurate loan default prediction.
+- Trained and evaluated models, including Logistic Regression, Decision Tree, Random Forest and XGBoost, for accurate loan default prediction.
 - Gained valuable insights into risk management, lending behaviours, and financial decision-making.
 <img src="https://github.com/rachellliao/rachellliao/blob/340b4cbb4a288d611e1604c053801e60aa40dc08/image/5.%20Loan%20Default%20Prediction.png" alt="Project5" width="400" height="250">
 
