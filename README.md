@@ -47,6 +47,7 @@ _OCT 2023_
 - Conducted in-depth data analysis on natural disaster trends and their impact, using sources like "Our World in Data" and "WorldRiskReport".
 - Developed a platform that promotes real-time interaction, connecting affected individuals directly to emergency services and vital resources.
 - Contributed to a solution that emphasizes community interactions, real-time updates, and direct resource connections for expedited post-crisis recovery.
+<img src="https://github.com/rachellliao/rachellliao/blob/defb3db08e37a4c6c449ad8fa47d4c2f960d2205/image/6.%20WWC%20Crisis%20Connect.png" alt="Project6" width="450" height="230">
 
 ### Data Scientist | [Predicting Loan Default with A Machine Learning Approach: Paycast](https://github.com/rachellliao/loan-payment-status-prediction) 💰
 _AUG 2023_
