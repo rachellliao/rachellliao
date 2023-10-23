@@ -41,6 +41,13 @@ I'm a skilled Accounting & Operations Professional with a passion for data scien
 
 ## 🔮 Projects
 
+### Data Scientist | [Crisis Connect: Crisis Response and Management](https://github.com/rachellliao/crisis-response) 🚨
+_OCT 2023_
+- Collaborated with a multidisciplinary team during the Women Who Code Hackathon for Social Good 2023, developing **Crisis Connect** for BC's natural disasters.
+- Conducted in-depth data analysis on natural disaster trends and their impact, using sources like "Our World in Data" and "WorldRiskReport".
+- Developed a platform that promotes real-time interaction, connecting affected individuals directly to emergency services and vital resources.
+- Contributed to a solution that emphasizes community interactions, real-time updates, and direct resource connections for expedited post-crisis recovery.
+
 ### Data Scientist | [Predicting Loan Default with A Machine Learning Approach: Paycast](https://github.com/rachellliao/loan-payment-status-prediction) 💰
 _AUG 2023_
 - Implemented data cleaning and preprocessing on an extensive dataset.
